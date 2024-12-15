@@ -3,8 +3,8 @@
   "basics": {
     "name": "Мурзаканов Ислам",
     "label": "C++ developer",
-    "image": "https://lh3.googleusercontent.com/drive-viewer/AITFw-xRSnp9rfOdw0HM9tmDTyzGjkOzqq4iLKTKtk5bqKnltHXn2vFGiyqFetRHarVd6HMjk7FU4VRKdxF2Gm0BaS52wqNr=s1600",
-    "picture": "https://lh3.googleusercontent.com/drive-viewer/AITFw-xRSnp9rfOdw0HM9tmDTyzGjkOzqq4iLKTKtk5bqKnltHXn2vFGiyqFetRHarVd6HMjk7FU4VRKdxF2Gm0BaS52wqNr=s1600",
+    "image": "https://s78vla.storage.yandex.net/rdisk/38ca0e95174bc5ca2ddde9154d7e400699e6d04f606c81f02a2825af1ef750e8/675f7395/si8t1PoFmX_vWrOyCTkVaYffNGHpVlVS62B5ek6WgoPhH0yZsFN8yj1m36etDX0_alP_Amn8pVyHtIdL8bW30g==?uid=0&filename=me.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&fsize=69450&hid=d09a8144c132079a75df049c65e85d44&media_type=image&tknv=v2&etag=63b46e80db15b97612ef98f370e4b10c&ts=6295839644f40&s=535c8dc3862b5aeb28234013d10e2907d63fa2bb5fc556727629ef22546cfb61&pb=U2FsdGVkX19GV7PU6rIFOAxL0e6ip2j_K9j1YDIdTSiK7S23TNzSMOUUe6fC3zAnUNqVC9HZlDuyZx3G15xIkIUfZvKBMrAQp-2965oCvpY",
+    "picture": "https://s78vla.storage.yandex.net/rdisk/38ca0e95174bc5ca2ddde9154d7e400699e6d04f606c81f02a2825af1ef750e8/675f7395/si8t1PoFmX_vWrOyCTkVaYffNGHpVlVS62B5ek6WgoPhH0yZsFN8yj1m36etDX0_alP_Amn8pVyHtIdL8bW30g==?uid=0&filename=me.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&fsize=69450&hid=d09a8144c132079a75df049c65e85d44&media_type=image&tknv=v2&etag=63b46e80db15b97612ef98f370e4b10c&ts=6295839644f40&s=535c8dc3862b5aeb28234013d10e2907d63fa2bb5fc556727629ef22546cfb61&pb=U2FsdGVkX19GV7PU6rIFOAxL0e6ip2j_K9j1YDIdTSiK7S23TNzSMOUUe6fC3zAnUNqVC9HZlDuyZx3G15xIkIUfZvKBMrAQp-2965oCvpY",
     "email": "immurzakanov@yandex.ru",
     "phone": "+7 (988) 920-86-55",
     "url": "https://murzakanovim.github.io",
@@ -35,6 +35,19 @@
     ]
   },
   "work": [
+    {
+      "name": "Яндекс.Маркет",
+      "location": "Санкт-Петербург",
+      "description": "Яндекс.Маркет",
+      "position": "C++ developer",
+      "startDate": "2023-11-01",
+      "summary": "Разработал библиотеку для сервиса по ранжированию документов, который держит 1000 RPS и работает отказоустойчиво.\n Разрабатывал пайплан доставки новых данных в рамках проекта по среднему аукциону.\n Дежурил и поддерживал стабильность сервисов, выполнял задачи из поддержки.\n Участвовал во всех этапах жизненного цикла продукта.\n Занимался отладкой и поиском причин ошибок в разных AB экспериментах.",
+      "highlights": [
+        "C++ 20",
+        "GTest",
+        "CMake"
+      ]
+    },
     {
       "name": "АО \"НИИАС\"",
       "location": "Санкт-Петербург",
